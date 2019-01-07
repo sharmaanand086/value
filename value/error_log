@@ -1,0 +1,2 @@
+[11-Dec-2018 05:18:09 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/worldsuc/public_html/arfeenkhan/incredibleyou/value/index.php on line 8
+[11-Dec-2018 05:24:32 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'worldsuc_assign'@'localhost' (using password: YES) in /home/worldsuc/public_html/arfeenkhan/incredibleyou/value/index.php on line 8
